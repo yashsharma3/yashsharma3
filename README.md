@@ -16,7 +16,7 @@ Hi, I'm Yash Sharma <br>Machine Learning Expert | Blockchain Enthusiast | Full S
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashsharma0730&limit=5&theme=merko&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=yashsharma3&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yashsharma3&icon=0&color=3)](https://visitcount.itsvg.in)
